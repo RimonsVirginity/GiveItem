@@ -1,0 +1,8 @@
+name: GiveItem
+version: ${project.version}
+main: giveitem.give.Main
+api-version: 1.16.1
+authors: [urmom]
+commands:
+  TestGive:
+    description: Gives you shit
